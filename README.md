@@ -28,6 +28,8 @@ Method :
 7) When everything is ready, launch the code
 8) Observ the results
 
-It is estimated that it would take about 7-8 minutes to reach the ideal temperature.
+It is estimated that it would take about 7-8 minutes to reach the ideal temperature if we graph below :
 
-![image](https://user-images.githubusercontent.com/100076215/206728238-4dd0f854-14a7-46b6-b147-a8b494e9a490.png)
+![image](https://user-images.githubusercontent.com/100076215/206738311-bdd26200-7806-487e-96f7-0c78d3099849.png)
+
+This graph shows three datas but only the water temperature in green interests us here. 
