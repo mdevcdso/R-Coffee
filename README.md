@@ -32,4 +32,10 @@ It is estimated that it would take about 7-8 minutes to reach the ideal temperat
 
 ![image](https://user-images.githubusercontent.com/100076215/206738311-bdd26200-7806-487e-96f7-0c78d3099849.png)
 
-This graph shows three datas but only the water temperature in green interests us here. 
+This graph shows three datas collected by our Raspberry but only the water temperature in green interests us here. This allows us to deduce the time it takes us roughly in minutes to avoid burning ourselves.
+
+----------
+
+So, this experiment was the first I did on Raspberry and it was presented and it was intended for scientific research in the first place.
+
+Marion
